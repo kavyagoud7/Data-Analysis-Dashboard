@@ -41,11 +41,10 @@ The objective of this Blinkit Power BI dashboard is to analyze and monitor sales
 
 ## Project Insight
 
-📊 **Project Insight:**
 The dashboard provides a clear and interactive view of Blinkit's sales performance, customer preferences, and outlet effectiveness. It highlights key metrics like total sales, average sales, top-performing item types, and outlet types, helping stakeholders make data-driven decisions.
 
+## Final Conclusion
 
-✅ **Final Conclusion:**
 The Blinkit dashboard successfully identifies high-performing products and outlets, uncovers customer preferences, and tracks yearly sales trends. It serves as a valuable tool for strategic planning, improving sales, and enhancing customer satisfaction.
 
 
